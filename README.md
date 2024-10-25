@@ -1,6 +1,10 @@
 # Simulation for the LeRobot hackathon
 This simulation environment that will be used for the [LeRobot Hackathon 2024](https://github.com/huggingface/lerobot_hackathon_oct2024).
 
+<div align="center">
+   <img width="804" alt="Screenshot 2024-10-25 at 22 50 12" src="https://github.com/user-attachments/assets/9ea2e84e-ff45-4f90-95dd-75ea4c19c5be">
+</div>
+
 ## General outline and goals
 - Train the [simulation environment](https://github.com/michel-aractingi/gym-lowcostrobot/tree/environment_fixes) of the Koch arms to perform basic manipulation tasks.
 - Use the [TD-MPC implementation](https://github.com/huggingface/lerobot/tree/user/michel-aractingi/2024-10-15-control-sim/lerobot/common/policies/tdmpc) in this branch of LeRobot to train your policies to acheive different tasks.
